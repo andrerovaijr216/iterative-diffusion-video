@@ -34,8 +34,8 @@ O processo funciona da seguinte forma:
 O resultado é um vídeo que demonstra uma transição visual orgânica e fascinante, inteiramente gerada por IA.
 
 ## 🎥 Vídeo Gerado
-
-*-- Insira aqui um GIF do seu vídeo ou um link para o YouTube! --*
+[
+*-- Insira aqui um GIF do seu vídeo ou um link para o YouTube! --*](https://youtube.com/shorts/noNJvpdIY68?feature=share)
 
 **Exemplo de como inserir um GIF no README:**
 `![Demonstração do Vídeo](link_para_o_seu_gif.gif)`
