@@ -35,7 +35,7 @@ O resultado é um vídeo que demonstra uma transição visual orgânica e fascin
 
 ## 🎥 Vídeo Gerado
 [
-*-- Insira aqui um GIF do seu vídeo ou um link para o YouTube! --*](https://youtube.com/shorts/noNJvpdIY68?feature=share)
+*-- Videos Gerado! --*](https://youtube.com/shorts/noNJvpdIY68?feature=share)
 
 **Exemplo de como inserir um GIF no README:**
 `![Demonstração do Vídeo](link_para_o_seu_gif.gif)`
